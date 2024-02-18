@@ -1,6 +1,6 @@
 click==6.7
-geopandas==0.2.1
+geopandas==0.14
 numpy==1.12.1
-osmnx==0.6
+osmnx==1.9.1
 overpass==0.5.6
-Shapely==1.5.17.post1
+Shapely==2.0.2
